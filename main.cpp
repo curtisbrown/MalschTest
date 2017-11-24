@@ -11,5 +11,7 @@ int main(int argc, char *argv[])
 
     qDebug() << "This is a test for Anna and Martin";
 
+    qDebug() << "BALABSJHCDVSHCD";
+
     return app.exec();
 }
