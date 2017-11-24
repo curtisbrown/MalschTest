@@ -9,5 +9,7 @@ int main(int argc, char *argv[])
 
     qDebug() << "Hello world!!!";
 
+    qDebug() << "This is a test for Anna and Martin";
+
     return app.exec();
 }
